@@ -20,6 +20,6 @@ A UI-driven, dual-agent AI pipeline designed to generate and automatically revie
 
 ## 🚀 Quick Start (Google Colab)
 The easiest way to test and interact with this pipeline is directly in your browser using Google Colab.
-1. Open the [Colab Notebook](#) *(Link your notebook here)*.
+1. Open the [Colab Notebook](https://colab.research.google.com/drive/1owABAFa3ZaH7F7WbNb8Le7ZB_WSpMJF8?usp=sharing)
 2. Run the code cell to install dependencies and launch the inline Gradio UI.
 3. Enter your [Google Gemini API Key](https://aistudio.google.com/), input a topic, and click "Generate Content".
