@@ -1,4 +1,3 @@
-"""
 # 📚 EduContent-Agent-Pipeline
 
 A UI-driven, dual-agent AI pipeline designed to generate and automatically review structured educational content. This project demonstrates a lightweight agentic architecture using **Gemini 2.5 Flash**, **Pydantic** for strict JSON schemas, and **Gradio** for an interactive frontend.
